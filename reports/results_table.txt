@@ -1,0 +1,8 @@
+| Метод | Macro F1 | Улучшение |
+|-------|----------|-----------|
+| BASELINE | 0.8294 | - |
+| LEMMATIZATION | 0.8294 | +0.00% |
+| TRIGRAM | 0.8187 | -1.29% |
+| RANDOM FOREST | 0.8196 | -1.18% |
+| LINEAR SVC | 0.8983 | +8.31% |
+| LOGREG + GRIDSEARCH | 0.8864 | +6.88% |

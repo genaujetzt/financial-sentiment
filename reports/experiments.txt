@@ -1,0 +1,80 @@
+=== BASELINE ===
+              precision    recall  f1-score   support
+
+           0       0.93      0.64      0.76        61
+           1       0.90      0.99      0.94       278
+           2       0.82      0.76      0.79       114
+
+    accuracy                           0.88       453
+   macro avg       0.88      0.80      0.83       453
+weighted avg       0.88      0.88      0.88       453
+
+Macro F1: 0.8294
+
+=== LEMMATIZATION ===
+              precision    recall  f1-score   support
+
+           0       0.93      0.64      0.76        61
+           1       0.90      0.99      0.94       278
+           2       0.82      0.76      0.79       114
+
+    accuracy                           0.88       453
+   macro avg       0.88      0.80      0.83       453
+weighted avg       0.88      0.88      0.88       453
+
+Macro F1: 0.8294
+
+=== TRIGRAM ===
+              precision    recall  f1-score   support
+
+           0       0.93      0.62      0.75        61
+           1       0.90      0.99      0.94       278
+           2       0.80      0.75      0.77       114
+
+    accuracy                           0.88       453
+   macro avg       0.87      0.78      0.82       453
+weighted avg       0.88      0.88      0.87       453
+
+Macro F1: 0.8187
+
+=== RANDOM FOREST ===
+              precision    recall  f1-score   support
+
+           0       0.90      0.62      0.74        61
+           1       0.88      0.99      0.93       278
+           2       0.85      0.74      0.79       114
+
+    accuracy                           0.88       453
+   macro avg       0.88      0.78      0.82       453
+weighted avg       0.88      0.88      0.87       453
+
+Macro F1: 0.8196
+
+=== LINEAR SVC ===
+              precision    recall  f1-score   support
+
+           0       0.88      0.85      0.87        61
+           1       0.95      0.98      0.96       278
+           2       0.90      0.83      0.86       114
+
+    accuracy                           0.93       453
+   macro avg       0.91      0.89      0.90       453
+weighted avg       0.93      0.93      0.93       453
+
+Macro F1: 0.8983
+
+=== LOGREG + GRIDSEARCH ===
+              precision    recall  f1-score   support
+
+           0       0.92      0.77      0.84        61
+           1       0.95      0.99      0.97       278
+           2       0.86      0.84      0.85       114
+
+    accuracy                           0.92       453
+   macro avg       0.91      0.87      0.89       453
+weighted avg       0.92      0.92      0.92       453
+
+Macro F1: 0.8864
+
+Best parameters: {'C': 10}
+
