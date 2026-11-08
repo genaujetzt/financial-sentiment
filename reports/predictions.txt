@@ -1,0 +1,15 @@
+Text: The company reported strong growth in revenue.
+Prediction: 2
+--------------------------------------------------------------------------------
+Text: The company announced a significant loss this quarter.
+Prediction: 2
+--------------------------------------------------------------------------------
+Text: The company expects stable results next year.
+Prediction: 1
+--------------------------------------------------------------------------------
+Text: Sales increased by 15 percent compared with last year.
+Prediction: 2
+--------------------------------------------------------------------------------
+Text: The company plans to reduce its workforce.
+Prediction: 1
+--------------------------------------------------------------------------------

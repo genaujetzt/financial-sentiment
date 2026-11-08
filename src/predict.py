@@ -1,5 +1,6 @@
 import joblib
 
+from pathlib import Path
 from preprocessing import clean_text
 
 
@@ -35,8 +36,15 @@ if __name__ == "__main__":
         "Sales increased by 15 percent compared with last year.",
         "The company plans to reduce its workforce."
     ]
+    result = predict_sentiment(
+    texts,
+    model,
+    vectorizer,
+    clean_text)
+    
+    Path("reports").mkdir(parents=True, exist_ok=True)
 
-        with open("reports/predictions.txt", "w") as f:
+    with open("reports/predictions.txt", "w") as f:
 
         if isinstance(result, tuple):
             predictions, probabilities = result

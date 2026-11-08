@@ -42,13 +42,13 @@ Macro F1: 0.8187
 
            0       0.90      0.62      0.74        61
            1       0.88      0.99      0.93       278
-           2       0.85      0.74      0.79       114
+           2       0.82      0.72      0.77       114
 
-    accuracy                           0.88       453
-   macro avg       0.88      0.78      0.82       453
-weighted avg       0.88      0.88      0.87       453
+    accuracy                           0.87       453
+   macro avg       0.87      0.78      0.81       453
+weighted avg       0.87      0.87      0.86       453
 
-Macro F1: 0.8196
+Macro F1: 0.8115
 
 === LINEAR SVC ===
               precision    recall  f1-score   support

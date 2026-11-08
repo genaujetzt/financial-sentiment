@@ -244,7 +244,7 @@ errors = df.loc[test_idx].copy()
 errors["predicted"] = y_pred_best
 
 errors = errors[
-    errors["sentiment"] != errors["predicted"]
+    errors["label"] != errors["predicted"]
 ]
 
 print(f"\nКоличество ошибок: {len(errors)}")
@@ -252,7 +252,7 @@ print("\nПримеры ошибок:")
 
 for _, row in errors.head(10).iterrows():
     print(f"\nТекст: {row['text']}")
-    print(f"Истинный класс: {row['sentiment']}")
+    print(f"Истинный класс: {row['label']}")
     print(f"Предсказанный класс: {row['predicted']}")
 
 with open("reports/error_analysis.txt", "w") as f:
@@ -264,6 +264,6 @@ with open("reports/error_analysis.txt", "w") as f:
 
     for _, row in errors.head(20).iterrows():
         f.write(f"Текст: {row['text']}\n")
-        f.write(f"Истинный класс: {row['sentiment']}\n")
+        f.write(f"Истинный класс: {row['label']}\n")
         f.write(f"Предсказанный класс: {row['predicted']}\n")
         f.write("-" * 80 + "\n")

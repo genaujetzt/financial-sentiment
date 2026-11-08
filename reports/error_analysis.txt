@@ -1,86 +1,86 @@
 Лучшая модель: LINEAR SVC
 Macro F1: 0.8983
-Количество ошибок: 453
+Количество ошибок: 33
 
 Примеры ошибок:
 
-Текст: The company 's operating income ( EBIT ) totalled EUR 0.0 mn , up from EUR -0.3 mn year-on-year .
-Истинный класс: positive
-Предсказанный класс: 2
---------------------------------------------------------------------------------
-Текст: Glaston 's own glass processing unit , Tamglass Glass Processing , is a manufacturer of high quality safety glass products , and operates in Finland .
-Истинный класс: neutral
-Предсказанный класс: 1
---------------------------------------------------------------------------------
-Текст: In September alone , the market declined by 10.2 percent year-on-year to 19.28 million liters .
-Истинный класс: negative
+Текст: Cash flow from business operations totalled EUR 0.4 mn compared to a negative EUR 15.5 mn in the first half of 2008 .
+Истинный класс: 2
 Предсказанный класс: 0
 --------------------------------------------------------------------------------
-Текст: Goodwill and other intangible assets account for some 2.0 mln euro ( $ 2.6 mln ) of the purchase price , 20 pct of which payable in Aspo shares .
-Истинный класс: neutral
+Текст: These moderate but significant changes resulted in a significant 24-32 % reduction in the estimated CVD risk .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: Major Order in India Comptel Corporation has received a significant long-term order for mediation and provisioning solutions being used by a leading operator in India .
-Истинный класс: positive
+Текст: `` I am extremely delighted with this project and the continuation of cooperation with Viking Line .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: The beers differ slightly from mainstream beers .
+Истинный класс: 1
+Предсказанный класс: 0
+--------------------------------------------------------------------------------
+Текст: India 's trade with Russia currently stands at four billion dollars , growing 9.6 per cent in fiscal 2007 .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: Biohit already services many current Genesis customers and the customer base is expected to expand as a result of this agreement .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: The company said that sales in the three months to the end of March slid to EUR86 .4 m US$ 113.4 m from EUR91 .2 m last year .
+Истинный класс: 0
 Предсказанный класс: 2
 --------------------------------------------------------------------------------
-Текст: Helsinki on October 22 , 2008 SSH COMMUNICATIONS SECURITY CORP Board of Directors For further information , please contact : Tomi Laamanen , Chairman , tel. +358 0 400 609 544 Distribution : NASDAQ OMX Helsinki Ltd. .
-Истинный класс: neutral
+Текст: Both the net sales and operating profit were record high in the company 's history .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: The shares shall be acquired according to the Rules of NASDAQ OMX Helsinki and otherwise according to the rules related to acquisition of the company 's own shares .
-Истинный класс: neutral
+Текст: However , sales volumes in the food industry are expected to remain at relatively good levels in Finland and in Scandinavia , Atria said .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: Finnish flexible packaging manufacturer Suominen Corporation reports net sales of EUR 54.5 mn in the first quarter of 2008 , compared with EUR 54.3 mn a year earlier .
-Истинный класс: positive
+Текст: The company also said that in Poland a profitability program has been launched at the Oborniki steel frame and sandwich panel plant .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: The brokerage said 2006 has seen a ` true turning point ' in European steel base prices , with better pricing seen carrying through the second quarter of 2006 .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: According to Atria 's President and CEO Matti Tikkakoski , the company 's Swedish operations significantly improved in the first quarter .
+Истинный класс: 2
+Предсказанный класс: 1
+--------------------------------------------------------------------------------
+Текст: Finnish power supply solutions and systems provider Efore Oyj said its net loss widened to 3.2 mln euro $ 4.2 mln for the first quarter of fiscal 2006-2007 ending October 31 , 2007 from 900,000 euro $ 1.2 mln for the same period of fiscal 2005-06 .
+Истинный класс: 0
 Предсказанный класс: 2
 --------------------------------------------------------------------------------
-Текст: The transaction is subject to a final agreement between the parties , approvals of their decision-making bodies and approval by the Finnish Competition Authority .
-Истинный класс: neutral
-Предсказанный класс: 1
+Текст: In the reporting period , net sales rose by 8 % year-on-year to EUR64 .3 m , due to the business acquisitions realized during the first half of 2008-09 , the effect of which was EUR10 .9 m in the review period .
+Истинный класс: 2
+Предсказанный класс: 0
 --------------------------------------------------------------------------------
-Текст: The total capacity of the factory will be approximately 100 engines a year .
-Истинный класс: neutral
-Предсказанный класс: 1
---------------------------------------------------------------------------------
-Текст: Ruukki 's delivery includes steel structures , including installation , for Krakeroy bascule bridge and steel piles for the bridge foundations .
-Истинный класс: neutral
-Предсказанный класс: 1
---------------------------------------------------------------------------------
-Текст: N-Viro operates processing facilities independently as well as in partnership with municipalities .
-Истинный класс: neutral
-Предсказанный класс: 1
---------------------------------------------------------------------------------
-Текст: Currently , 95 % of Trainers House 's revenues are attributed to the Finnish market .
-Истинный класс: neutral
-Предсказанный класс: 1
---------------------------------------------------------------------------------
-Текст: 1 February 2011 - Finnish textile and clothing company Marimekko Oyj HEL : MMO1V said today its preliminary operating profit grew to EUR8 .2 m in 2010 from EUR6 .3 m in 2009 .
-Истинный класс: positive
+Текст: Cash flow from operations in January-December 2008 was a negative EUR 18.1 mn compared to EUR 39.0 mn in the corresponding period in 2007 .
+Истинный класс: 0
 Предсказанный класс: 2
 --------------------------------------------------------------------------------
-Текст: Prior to the transaction , whose financial terms have not been disclosed , Alma Media owned 40 % of Kotikokki net .
-Истинный класс: neutral
+Текст: BasWare 's CEO Ilkka Sihvo comments in conjunction with the Interim Report : `` As a whole , BasWare succeeded well in the second quarter of 2007 .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: ABN : 59 087 901 620 now represent 5.10 % of the voting rights and share capital of Citycon Oyj .
-Истинный класс: neutral
+Текст: Citigroup , Inc ( NYSE : C ) has announced that its Global Transaction Services ( GTS ) business has been awarded a new mandate by Finland-based Pohjola Bank Group .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: International sales rose by 59.8 % to EUR 1,244.4 mn .
-Истинный класс: positive
-Предсказанный класс: 2
---------------------------------------------------------------------------------
-Текст: In the sinter plant , limestone and coke breeze are mixed with the iron ore concentrate and sintered into lump form or sinter for use in the blast furnaces as a raw material for iron-making .
-Истинный класс: neutral
+Текст: Systeemitiimi 's sales and project resources will also be strengthened , director Paul Skogberg said .
+Истинный класс: 2
 Предсказанный класс: 1
 --------------------------------------------------------------------------------
-Текст: The figure includes the change in the fair value of the property portfolio , EUR 26.2 million .
-Истинный класс: neutral
-Предсказанный класс: 1
+Текст: Unit costs for flight operations fell by 6.4 percent .
+Истинный класс: 2
+Предсказанный класс: 0
 --------------------------------------------------------------------------------
-Текст: Raute reported a loss per share of EUR0 .86 for the first half of 2009 , against EPS of EUR0 .74 in the corresponding period of 2008 .
-Истинный класс: negative
+Текст: According to Finnair Technical Services , the measure is above all due to the employment situation .
+Истинный класс: 1
 Предсказанный класс: 0
 --------------------------------------------------------------------------------
